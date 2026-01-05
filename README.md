@@ -264,22 +264,6 @@ GET /api/plans
 ]
 ```
 
----
-
-## 🎨 Screenshots
-
-> **Note**: Add your application screenshots here to showcase the UI
-
-### Registration Page
-![Registration Page](https://via.placeholder.com/800x400?text=Member+Registration+Page)
-
-### Admin Dashboard
-![Admin Dashboard](https://via.placeholder.com/800x400?text=Admin+Dashboard+with+Cyberpunk+Aesthetic)
-
-### Member Cards
-![Member Cards](https://via.placeholder.com/800x400?text=Member+Cards+with+Neon+Effects)
-
----
 
 ## 🔧 Configuration
 
